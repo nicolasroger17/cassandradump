@@ -1,0 +1,23 @@
+{
+  "name": "cassandradump",
+  "version": "1.0.0",
+  "description": "cassandradump =============",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasroger17/cassandradump.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasroger17/cassandradump/issues"
+  },
+  "homepage": "https://github.com/nicolasroger17/cassandradump#readme"
+}
